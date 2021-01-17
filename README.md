@@ -1,1 +1,2 @@
-# c21prachi
+# collisionAlgorithm
+Algorithm to detect collision between two objects
